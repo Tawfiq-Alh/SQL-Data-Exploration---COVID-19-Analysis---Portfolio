@@ -1,5 +1,4 @@
-# SQL-Data-Exploration---COVID-19-Analysis---Portfolio
-#  SQL Data Exploration — COVID-19 Analysis
+# SQL-Data-Exploration—COVID-19-Analysis—Portfolio
 
 ## Project Overview
 Exploratory Data Analysis using SQL to uncover 
